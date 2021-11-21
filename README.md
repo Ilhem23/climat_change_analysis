@@ -107,7 +107,8 @@ To realize this analysis, I make a join the continents dataset with average temp
 ### IV.  Interactive Map of the countries - Temperature increase over the years
 The standard metric of temperature change is the level associated with devastating impacts. We have 1.5° C the level associated with less devastating impacts than higher levels of global warming beyond 1.5°C increasingly severe and expensive impacts.
 To gzt this value from our dataset, I calculate the difference of average temperature between the year and the next year group by countries.
-I make a interactive map of countries to better visualize the change over the years. 
+I make a interactive map of countries to better visualize the change over the years.
+
 ![alt text](https://github.com/Ilhem23/management_project/blob/main/images/5.png)
 
 ## Conclusion
