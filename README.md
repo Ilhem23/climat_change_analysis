@@ -18,7 +18,7 @@ Huge fires raged this summer on the island of Evia and elsewhere in Greece, Turk
 In this project i will analyse The Climate Change Open Data from Kaggle to study the Earth's temperature.
 
 #### **Dataset** 
-I used a open data set (Climate Change: Earth Surface Temperature Data) from Kaggle website, you can find the link below: 
+I used an open data set (Climate Change: Earth Surface Temperature Data) from Kaggle website, you can find the link below: 
 - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
 - https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCity.csv
 
