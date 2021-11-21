@@ -99,14 +99,17 @@ I wanted to investigate how many historical records had in this decade to learn 
 I selected 'World' records from 'Country Name' column. Then, I chose only monthly basis temperature change values and whole world records. 
 Result shows that already eight of the ten years in the current decade (2010–2015) were among the ten hottest years on record in terms of  mean annual temperatures. Additionally, Radar chart clearly shows how temperature change increased day by day.
 ![alt text](https://github.com/Ilhem23/management_project/blob/main/images/3.png)
+
 ### IV. What are the most countries that suffer from temperature increasing ?
 To realize this analysis, I make a join the continents dataset with average temperature by country, i groupe the data by country, year, latitude and longitude, after that i calculate the difference between the max and the mean to shopw the degree of the increase of temperature.
 ![alt text](https://github.com/Ilhem23/management_project/blob/main/images/4.png)
+
 ### IV.  Interactive Map of the countries - Temperature increase over the years
 The standard metric of temperature change is the level associated with devastating impacts. We have 1.5° C the level associated with less devastating impacts than higher levels of global warming beyond 1.5°C increasingly severe and expensive impacts.
 To gzt this value from our dataset, I calculate the difference of average temperature between the year and the next year group by countries.
 I make a interactive map of countries to better visualize the change over the years. 
 ![alt text](https://github.com/Ilhem23/management_project/blob/main/images/5.png)
+
 ## Conclusion
 
 In this the project, I examined how global surface temperature change between 1860 to 2015. According to my guiding question answers, when examining the top areas that have the highest temperature change in the last decade are mostly industrialized countries. Additionally, I found that temperature increased every ten decades, and the last decade can count as the hottest decade. Finally,  I tried to show how temperature is increasing worldwide as a proof of global warming.
